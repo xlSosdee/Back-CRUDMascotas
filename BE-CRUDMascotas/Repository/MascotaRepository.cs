@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
+//IMPLEMENTACION PATRON REPOSITORY
 namespace BE_CRUDMascotas.Repository
 {
     public class MascotaRepository: IMascotaRepository

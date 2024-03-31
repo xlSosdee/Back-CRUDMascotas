@@ -28,7 +28,7 @@ namespace BE_CRUDMascotas.Controllers
             _mapper = mapper;
         }
 
-
+        //ENDPOINTS DEL PROYECTO
         [HttpGet]
 
         public async Task<IActionResult> Get() {
