@@ -1,5 +1,6 @@
 ﻿namespace BE_CRUDMascotas.Models.DTOs
 {
+    //Implementacion DTOs
     public class MascotaDTO
     {
 
